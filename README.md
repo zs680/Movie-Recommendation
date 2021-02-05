@@ -1,4 +1,4 @@
-# Movie-Recommendation
+# Movie-Recommendations
 The datasets have been collected from 
 https://www.kaggle.com/rounakbanik/the-movies-dataset.
 
