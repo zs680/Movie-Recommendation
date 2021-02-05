@@ -1,6 +1,6 @@
 # Movie-Recommendation
 The datasets have been collected from 
-https://www.kaggle.com/rounakbanik/the-movies-dataset
+https://www.kaggle.com/rounakbanik/the-movies-dataset.
 
 In this project we build a collaborative, content-based and a hybrid recommender system. We also train a probabilistic model to predict average rating.
 
